@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1713025753 source:d:\code_app\code_block\find_the_treasure\findthetreasure\game_draw.cpp
+	<iostream>
+
+1715353331 source:d:\code_app\code_block\find_the_treasure\findthetreasure\game_test.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"game_draw.h"
+	"open_the_treasure.h"
+
+1713327841 d:\code_app\code_block\find_the_treasure\findthetreasure\game_draw.cpp
+	<iostream>
+
+1715353789 d:\code_app\code_block\find_the_treasure\findthetreasure\game_draw.h
+	<iostream>
+
+1715354885 d:\code_app\code_block\find_the_treasure\findthetreasure\open_the_treasure.h
+	<iostream>
+	<string>
+	<list>
+	<stdlib.h>
+	<random>
+	<sstream>
+	<chrono>
+	<Windows.h>
+
