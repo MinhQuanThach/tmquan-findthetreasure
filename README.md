@@ -5,7 +5,7 @@ README.txt
 - open_the_treasure.h
 - game_test.cpp
 
-Tiếng Việt
+**Tiếng Việt**
 Màn 1: mục tiêu của bạn là cho nhân vật di chuyển trên con đường gồm 20 ô để tìm kho báu ở vạch đích. Bạn sẽ có 10 lượt tung xúc xắc, số điểm nhận được là số ô mà nhân vật sẽ di chuyển. Sẽ có chướng ngại vật hoặc vật phẩm trên đường.
 Ký hiệu:
 ‘o’ nhân vật
@@ -17,7 +17,7 @@ Ký hiệu:
 
 Màn 2: mục tiêu của bạn là đoán số tự nhiên từ 1 đến 99 được tạo bất kỳ, nếu đoán đúng sẽ mở được kho báu. Bạn có thể nhấn 1 để đoán số, nhấn 2 để lấy gợi ý về con số, nhấn 3 để thoát trò chơi. Mỗi lần đoán hoặc lấy gợi ý sẽ tiêu tốn 1 lượt. Bạn sẽ có 8 lượt để đoán.
 
-English:
+**English:**
 Stage 1: Your goal is to make the character move on a path of 20 steps to find the treasure at the finish line. You will have 10 turns to roll the dice, the number of points received is the number of steps the character will move. There will be obstacles or items on the way.
 Symbol:
 'o' your character
