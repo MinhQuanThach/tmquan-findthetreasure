@@ -4,8 +4,7 @@
 - open_the_treasure.h
 - game_test.cpp
   
-**Tiếng Việt
-**
+**Tiếng Việt**
 - Màn 1: mục tiêu của bạn là cho nhân vật di chuyển trên con đường gồm 20 ô để tìm kho báu ở vạch đích. Bạn sẽ có 10 lượt tung xúc xắc, số điểm nhận được là số ô mà nhân vật sẽ di chuyển. Sẽ có chướng ngại vật hoặc vật phẩm trên đường. Ký hiệu:
 + ‘o’ nhân vật
 + ‘U’ bẫy – khi nhân vật dẫm phải bẫy, số lượt của bạn bị trừ đi 2
