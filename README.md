@@ -15,5 +15,7 @@
 - Màn 2: mục tiêu của bạn là đoán số tự nhiên từ 1 đến 99 được tạo bất kỳ, nếu đoán đúng sẽ mở được kho báu. Bạn có thể nhấn 1 để đoán số, nhấn 2 để lấy gợi ý về con số, nhấn 3 để thoát trò chơi. Mỗi lần đoán hoặc lấy gợi ý sẽ tiêu tốn 1 lượt. Bạn sẽ có 8 lượt để đoán.
 
 **Tài liệu tham khảo**
+
 https://lazyfoo.net/tutorials/SDL/
+
 https://tailieuvnu.com/giao-trinh-lap-trinh-nang-cao-nguyen-van-vinh-pham-quoc-thai-tran-quoc-long-uet/
